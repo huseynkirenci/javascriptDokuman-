@@ -14,6 +14,9 @@ Bu projeyi **Better Comments** eklentisi ile kullanmalısınız.
 1. Reponun bir kopyasını bilgisayarınıza klonlayın:  
    ```sh
    git clone https://github.com/kullanici-adiniz/JavaScript-Notlari.git
+2. Kendi çalışma ortamınıza uygun bir editörle açın. (Önerilen: VS Code veya PHPStorm)
+3. Better Comments eklentisini yükleyerek daha okunabilir yorumlar elde edin.
+
 Kendi çalışma ortamınıza uygun bir editörle açın. (Önerilen: VS Code veya PHPStorm)
 Better Comments eklentisini yükleyerek daha okunabilir yorumlar elde edin.
 📌 İçerik
@@ -30,11 +33,6 @@ Yeni bir branch açarak değişikliklerinizi yapın.
 Pull request göndererek katkınızı sunun.
 📢 Bu projeyi faydalı bulduysanız, yıldız ⭐ vererek destek olabilirsiniz!
 
-perl
-Copy
-Edit
-
-Bu formatı README'ye yapıştırdığınızda düzgün bir görünüm elde edeceksiniz. 🎯
 
 
 
