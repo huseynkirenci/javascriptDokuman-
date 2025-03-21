@@ -14,7 +14,7 @@ function selamVer(){
 selamVer();
 */
 
-//? Hatali Let Kullanımı aşagıdaki fonks!
+//! Hatali Let Kullanımı aşagıdaki fonks!
 /*
 function hiWorld(){
     if (true){
